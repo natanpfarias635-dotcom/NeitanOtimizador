@@ -1,0 +1,28 @@
+========================================================================
+                 🔥 NEITAN OTIMIZADOR PRO v2.0 🔥
+           Suite Avançada de Otimização & Performance (Windows)
+========================================================================
+
+COMO USAR:
+1. Extraia o arquivo "NeitanOtimizador.exe" para qualquer pasta (ou Área de Trabalho).
+2. Dê dois cliques em "NeitanOtimizador.exe".
+3. Confirme a permissão de Administrador (necessária para aplicar ajustes de
+   energia, serviços, rede e limpeza profunda do Windows).
+4. Se o Windows exibir a tela azul do SmartScreen ("O Windows protegeu o computador"),
+   clique em "Mais informações" e depois em "Executar assim mesmo".
+
+PRINCIPAIS FUNÇÕES (100% LIBERADAS):
+- [⚡ Otimizar em 1 Clique]: Limpa arquivos temporários, libera Memória RAM e
+  ativa o Perfil Gamer Competitivo automaticamente.
+- [📊 Painel Geral]: Monitora CPU, RAM, Disco, Uptime e Índice de Saúde ao vivo.
+- [🎯 Perfis]: 5 Perfis prontos (Gamer Competitivo, Streamer, Trabalho, Notebook e Ultra Red).
+- [🧹 Limpeza]: Temporários, Navegadores, Shaders (DirectX/NVIDIA/AMD), Arquivos Grandes e Duplicados.
+- [🚀 Otimizações]: Visual, Mouse Raw 1:1 (Sem Aceleração), Serviços, Energia (Ultimate Performance) e Boot.
+- [🎮 Jogos & Boost]: HAGS, Prioridade MMCSS, Game Boost de Sessão e Detector de Bibliotecas.
+- [🌐 Rede]: Benchmark de DNS ao vivo, Teste de Jitter/Perda, DNS Gamer e Reset Winsock.
+- [🛡️ Privacidade]: Bloqueio completo de Telemetria, Bing no Menu Iniciar e Bloatwares.
+- [📜 Segurança]: Crie Ponto de Restauração do Windows e reverta sessões em 1 clique na aba Histórico.
+
+========================================================================
+Desenvolvido por Neitan · Edição PRO 100% Desbloqueada
+========================================================================
